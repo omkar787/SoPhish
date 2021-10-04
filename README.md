@@ -1,6 +1,13 @@
 # SoPhish
    A Hub where you will find all the popular social media clone for Phishing attacks
 
+# How to propose changes
+  - Fork this repository.
+  - A copy of this repo is created in below your username.
+  - Clone the copy of the repo.
+  - Do necessary changes and then push it to GitHub.
+  - Navigate to the repo on GitHub and open a PR
+
 
 # Contributing guidelines
 
@@ -13,5 +20,5 @@ Following points should be kept in mind while submmitting a PR
  - Clones of login or registration pages.
  - create a sperate folder for separate Social media platforms
 
-If you have any other doubts, you can raise a issue.And, don't forget to star this repository.
+This repository is beginner friendly, if you have any other doubts you can raise a issue, the community will try to solve it. And, don't forget to star this repository.
 
