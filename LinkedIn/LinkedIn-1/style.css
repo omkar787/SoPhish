@@ -33,11 +33,15 @@ body {
 .middle-part h3 {
   text-align: center;
   font-size: 24px;
-  font-weight: 900;
+  font-weight: 800;
+  font-family: sans-serif;
 }
 
 .in {
   color: #fff;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  letter-spacing: 2px;
   background: #0077b5;
 }
 
