@@ -128,18 +128,20 @@ body {
 
 input[type="button"] {
   height: 50px;
-  width: 60%;
-  margin: 0 auto;
-  background: #006097;
+  width: 90%;
+  margin: 0.9rem 1rem 0 1rem;
+  background: #0A66C2;
   color: #fff;
   border: none;
+  border-radius: 5rem;
   font-size: 18px;
   font-weight: bolder;
   cursor: pointer;
+  transition: background 500ms ease;
 }
 
 input[type="button"]:hover {
-  background: #0077b5;
+  background: #004182;
 }
 
 .mid-last {
@@ -156,6 +158,7 @@ input[type="button"]:hover {
   color: #0A7BD4;
   cursor: pointer;
   font-weight: 700;
+  margin-bottom: 2rem;
 }
 
 .forgot-pass:hover {
