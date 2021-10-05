@@ -1,6 +1,7 @@
 ## SoPhish 
    A Hub where you will find all the popular social media clone for Phishing attacks
    This repository is beginner friendly, if you know HTML or CSS you are good to go.
+   And, don't forget to leave a 🌟
 
 ## How to propose changes ✨
   - Fork this repository.
@@ -22,5 +23,3 @@ Following points should be kept in mind while submmitting a PR
  - create a sperate folder for separate Social media platforms
 
 if you have any other doubts you can raise a issue or discuss it here [General Discussion](https://github.com/omkar787/SoPhish/discussions/10), the community will try to solve it.
-
-## And, don't forget to leave a 🌟
