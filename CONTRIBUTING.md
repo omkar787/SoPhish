@@ -10,3 +10,6 @@ Following points should be kept in mind while submmitting a PR
  - create a sperate folder for separate Social media platforms
 
 If you have any other doubts, you can raise a issue.
+
+
+This repository does not encourage any attacks on any Company or Individual in any form. This project is only for learning purposes
