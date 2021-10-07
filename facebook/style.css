@@ -151,4 +151,63 @@ body{
     color: #1877f2;
 }
 
+.footer {
+  background-color: #fff;
+  height: 40%;
+  padding: 70px 269px 0px 269px;
+  font: helvetica;
+}
+
+.footer ul {
+  padding: 0px 0px;
+  margin: 0px 0px;
+}
+
+.footer .contentcurve {
+  border-bottom: 1px solid #dddfe2;
+  font-size: 1px;
+  height: 8px;
+  margin-bottom: 8px;
+}
+
+.footer .languages ul li {
+  display: inline-block;
+}
+
+.footer .languages ul li a {
+  color: #737373;
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  padding: 4px 10px 0px 0px;
+}
+
+.footer .languages .fas.fa-plus {
+  font: inherit;
+  size: 5rem;
+  padding: 0px 8px;
+  outline: solid 1px;
+  outline-color: #918d8d;
+  background-color: #f5f6f7;
+}
+
+.footer .links ul li {
+  display: inline-block;
+}
+
+.footer .links ul li a {
+  color: #8a8d91;
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  padding: 4px 20px 0px 0px;
+}
+
+.footer .copyright {
+  color: #737373;
+  font-size: 11px;
+  padding: 10px 0px;
+}
 
