@@ -86,3 +86,24 @@ body{
 .link:any-link{
     color: #1877f2;
 }
+
+
+/* Added media query for responsiveness
+of the facebook */
+
+@media (max-width:480px) {
+    /* .top-container{
+        margin-top: 30%;
+    } */
+    .top-container{
+         width: 100%; 
+        /* padding-left: 15%; */
+    }
+    .flex-form{
+    width: 96%;
+    }
+    .input-box{
+        width: 80%;
+    }
+
+}
