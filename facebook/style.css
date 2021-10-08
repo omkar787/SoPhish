@@ -151,12 +151,23 @@ body{
     color: #1877f2;
 }
 
-.footer {
-  background-color: #fff;
-  height: 40%;
-  padding: 70px 269px 0px 269px;
-  font: helvetica;
+@media screen and (max-width: 700px){
+    .footer {
+        background-color: #fff;
+        height: 40%;
+        padding: 70px 69px 0px 69px;
+        font: helvetica;
+    }
 }
+@media screen and (min-width: 700px){
+    .footer {
+    background-color: #fff;
+    height: 40%;
+    padding: 70px 269px 0px 269px;
+    font: helvetica;
+    }
+}
+
 
 .footer ul {
   padding: 0px 0px;
