@@ -208,3 +208,17 @@ footer ul li {
   background: #000;
   font-size: 15px;
 }
+
+/* ------------ Responsiveness ---------------- */
+@media (max-width: 840px){
+  footer{
+    display: none;
+  }
+  .mid-last{
+    position: absolute;
+    bottom: -100%;
+    width: 100%;
+    text-align: center;
+  }
+
+}
