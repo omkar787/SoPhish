@@ -2,6 +2,11 @@
    A Hub where you will find all the popular social media clone for Phishing attacks
    This repository is beginner friendly, if you know HTML or CSS you are good to go.
    And, don't forget to leave a 🌟
+   
+[![GitHub forks](https://img.shields.io/github/forks/omkar787/sophish?style=social)](https://github.com/omkar787/SoPhish/network/members)
+[![GitHub Repo stars](https://img.shields.io/github/stars/omkar787/sophish?style=social)](https://github.com/omkar787/SoPhish/stargazers)
+[![Follow me on Twitter: @OmkarCodes](https://img.shields.io/twitter/follow/OmkarCodes?style=social)](https://twitter.com/OmkarCodes)
+[![Follow me on GitHub: @omkar787](https://img.shields.io/github/followers/Omkar787?label=Follow%20omkar787&style=social)](https://github.com/omkar787)
 
 ## How to propose changes ✨
   - Fork this repository.
